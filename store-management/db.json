@@ -1,0 +1,18 @@
+{
+  "orders": [
+    {
+      "Mname": "Cipladine",
+      "quantity": "25",
+      "cName": "Rahul",
+      "cPhone": "8076853275",
+      "id": 1
+    },
+    {
+      "Mname": "paracetamol",
+      "quantity": "300",
+      "cName": "Sanjay",
+      "cPhone": "8076853278",
+      "id": 2
+    }
+  ]
+}
